@@ -8,8 +8,8 @@
 ![Screenshoot](./preview.gif)
 
 
-Cards contendo imagem e descrição sobre algumas linguagens de programação
-Estilo: Neobrutalismo com cores vibrantes e saturadas, sombras e bordas arredondadas 
+- Cards contendo imagem e descrição sobre algumas linguagens de programação
+- Estilo: Neobrutalismo com cores vibrantes e saturadas, sombras e bordas arredondadas 
 
 
 Ideia principal: [Neobrutalismo UI (Como fazer)](https://dribbble.com/shots/20764973-Neobrutalism-UI-How-to)
