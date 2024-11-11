@@ -7,6 +7,7 @@
 
 ![Screenshoot](./preview.gif)
 
+* Criei esse projeto com o intuito principal de entender/aprender melhor um pouco de estilos visuais no design gráfico. Aplicando essas técnicas, posso ter uma percepção melhor antes de criar um projeto, escolhendo qual UI seguir, se desejo algo mais minimalista ou extravagante, vintage ou orgânico, entre outros estilos visuais. 
 
 - Cards contendo imagem e descrição sobre algumas linguagens de programação
 - Estilo: Neobrutalismo com cores vibrantes e saturadas, sombras e bordas arredondadas 
