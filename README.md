@@ -1,13 +1,13 @@
 
 # Neobrutalism UI (Card)
 
+Criei esse projeto com o intuito principal de entender/aprender melhor um pouco de estilos visuais no design gráfico. Aplicando essas técnicas, posso ter uma percepção melhor antes de criar um projeto, escolhendo qual UI seguir, se desejo algo mais minimalista ou extravagante, vintage ou orgânico, entre outros estilos visuais. 
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ![Screenshoot](./preview.gif)
-
-* Criei esse projeto com o intuito principal de entender/aprender melhor um pouco de estilos visuais no design gráfico. Aplicando essas técnicas, posso ter uma percepção melhor antes de criar um projeto, escolhendo qual UI seguir, se desejo algo mais minimalista ou extravagante, vintage ou orgânico, entre outros estilos visuais. 
 
 - Cards contendo imagem e descrição sobre algumas linguagens de programação
 - Estilo: Neobrutalismo com cores vibrantes e saturadas, sombras e bordas arredondadas 
