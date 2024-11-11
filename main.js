@@ -96,5 +96,4 @@ function renderTechnologies(technologies) {
 }
 
 renderTechnologies(technologies);
-
-// alert("Projeto criado por: @ThiagoBxK, caso use o projeto deixe os creditos.");
+alert("Projeto criado por: @ThiagoBxK, caso use o projeto deixe os creditos.");
