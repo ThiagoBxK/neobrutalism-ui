@@ -11,8 +11,8 @@ Projeto criado para entender melhor as técnicas de Design. Neste projeto, utili
 - Cards que contem imagem, descrição, com efeito Flip
 - Estilo: Neobrutalismo com cores vibrantes e saturadas, sombras e bordas arredondadas
 
-Ideia principal: [Neobrutalismo UI (Como fazer)](https://dribbble.com/shots/20764973-Neobrutalism-UI-How-to)
-Projeto no Figma: [Neobrutalism-UI](<https://www.figma.com/design/lE0t4EIXrx69NpATfqnCpd/Neobrutalism-UI-(Cards)>)
+- Ideia principal: [Neobrutalismo UI (Como fazer)](https://dribbble.com/shots/20764973-Neobrutalism-UI-How-to)
+- Projeto no Figma: [Neobrutalism-UI](<https://www.figma.com/design/lE0t4EIXrx69NpATfqnCpd/Neobrutalism-UI-(Cards)>)
 
 ## Rodando localmente
 
