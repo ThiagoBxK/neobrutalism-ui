@@ -1,4 +1,4 @@
-# Neobrutalism UI (Card)
+# Neobrutalism Cards UI (Card)
 
 Projeto criado para entender melhor as técnicas de Design. Neste projeto, utilizei um estilo de design bem conhecido, o 'Neobrutalismo', aplicando a teoria das cores e um design limpo e minimalista.
 
